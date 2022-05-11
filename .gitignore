@@ -1,0 +1,11 @@
+node_modules/
+build/
+temp/
+.env
+firebase-config.json
+firebase-config.prod.json
+firebase-config.local.json
+firebase-config.json
+logs/
+
+Dockerfile

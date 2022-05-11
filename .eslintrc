@@ -1,0 +1,22 @@
+{
+  "extends": "airbnb/base",
+  "rules": {
+    "object-curly-newline": "off",
+    "no-console": "off",
+    "prefer-arrow-callback": "off",
+    "class-methods-use-this": "off",
+    "import/first": "off",
+    "no-prototype-builtins": "off",
+    "no-underscore-dangle": "off"
+  },
+  "env": {
+    "jest": true
+  },
+  "plugins": [
+    "prettier"
+  ],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2015
+  }
+}

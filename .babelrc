@@ -1,0 +1,11 @@
+{
+  "presets": [
+    "@babel/preset-env"
+  ],
+  "plugins": [
+    "@babel/plugin-syntax-async-generators",
+    "@babel/plugin-syntax-object-rest-spread",
+    "@babel/plugin-transform-runtime",
+    "@babel/plugin-transform-classes"
+  ]
+}
