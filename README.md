@@ -15,3 +15,7 @@ Repositório feito para treinar os meus conhecimentos em Back-end
 
 Material para referencia: 
 https://api.pokemon.com/br/pokedex/
+
+### Primeiro rascunho do diagrama do banco
+
+![diagrama](https://user-images.githubusercontent.com/71906862/167983727-7d6e7467-4f1b-4f99-86ad-56ca65535ee1.png)
