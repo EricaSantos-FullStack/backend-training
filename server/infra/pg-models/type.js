@@ -1,7 +1,7 @@
 const { EntitySchema } = require('typeorm');
 
 module.exports = new EntitySchema({
-  name: 'Weaknesses',
+  name: 'Type',
   columns: {
     id: {
       primary: true,

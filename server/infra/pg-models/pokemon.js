@@ -1,8 +1,8 @@
 const { EntitySchema } = require('typeorm');
 
-module.exports = EntitySchema({
-  name: 'Pokemons',
-  column: {
+module.exports = new EntitySchema({
+  name: 'Pokemon',
+  columns: {
     id: {
       primary: true,
       type: 'int',
@@ -16,24 +16,14 @@ module.exports = EntitySchema({
       type: String,
       unique: true,
     },
-    height: {
-      type: String,
-      unique: true,
-    },
-    weight: {
-      type: String,
-      unique: true,
-    },
     category: {
       type: String,
-      unique: true,
     },
     ability: {
       type: String,
-      unique: true,
     },
-    type: {
-      type: String,
+    typeId: {
+      type: 'int',
     },
     weakness: {
       type: String,
@@ -47,4 +37,20 @@ module.exports = EntitySchema({
       updateDate: true,
     },
   },
+  relations: {
+    type: {
+      target: 'Type',
+      type: 'many-to-one',
+      joinTable: true,
+      joinColumn: true,
+    },
+  },
 });
+
+// TODO: relations
+// Fazer primeiro o type apenas 1
+
+// ver se troca o type para int -
+// Quero que mostre o tipo na tabela, não apenas o número. Assim permaneço com a string.
+
+

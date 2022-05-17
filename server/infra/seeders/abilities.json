@@ -1,0 +1,726 @@
+[
+    {
+        "id": 0,
+        "name": "stench"
+    },
+    {
+        "id": 1,
+        "name": "drizzle"
+    },
+    {
+        "id": 2,
+        "name": "speed-boost"
+    },
+    {
+        "id": 3,
+        "name": "battle-armor"
+    },
+    {
+        "id": 4,
+        "name": "sturdy"
+    },
+    {
+        "id": 5,
+        "name": "damp"
+    },
+    {
+        "id": 6,
+        "name": "limber"
+    },
+    {
+        "id": 7,
+        "name": "sand-veil"
+    },
+    {
+        "id": 8,
+        "name": "static"
+    },
+    {
+        "id": 9,
+        "name": "volt-absorb"
+    },
+    {
+        "id": 10,
+        "name": "water-absorb"
+    },
+    {
+        "id": 11,
+        "name": "oblivious"
+    },
+    {
+        "id": 12,
+        "name": "cloud-nine"
+    },
+    {
+        "id": 13,
+        "name": "compound-eyes"
+    },
+    {
+        "id": 14,
+        "name": "insomnia"
+    },
+    {
+        "id": 15,
+        "name": "color-change"
+    },
+    {
+        "id": 16,
+        "name": "immunity"
+    },
+    {
+        "id": 17,
+        "name": "flash-fire"
+    },
+    {
+        "id": 18,
+        "name": "shield-dust"
+    },
+    {
+        "id": 19,
+        "name": "own-tempo"
+    },
+    {
+        "id": 20,
+        "name": "suction-cups"
+    },
+    {
+        "id": 21,
+        "name": "intimidate"
+    },
+    {
+        "id": 22,
+        "name": "shadow-tag"
+    },
+    {
+        "id": 23,
+        "name": "rough-skin"
+    },
+    {
+        "id": 24,
+        "name": "wonder-guard"
+    },
+    {
+        "id": 25,
+        "name": "levitate"
+    },
+    {
+        "id": 26,
+        "name": "effect-spore"
+    },
+    {
+        "id": 27,
+        "name": "synchronize"
+    },
+    {
+        "id": 28,
+        "name": "clear-body"
+    },
+    {
+        "id": 29,
+        "name": "natural-cure"
+    },
+    {
+        "id": 30,
+        "name": "lightning-rod"
+    },
+    {
+        "id": 31,
+        "name": "serene-grace"
+    },
+    {
+        "id": 32,
+        "name": "swift-swim"
+    },
+    {
+        "id": 33,
+        "name": "chlorophyll"
+    },
+    {
+        "id": 34,
+        "name": "illuminate"
+    },
+    {
+        "id": 35,
+        "name": "trace"
+    },
+    {
+        "id": 36,
+        "name": "huge-power"
+    },
+    {
+        "id": 37,
+        "name": "poison-point"
+    },
+    {
+        "id": 38,
+        "name": "inner-focus"
+    },
+    {
+        "id": 39,
+        "name": "magma-armor"
+    },
+    {
+        "id": 40,
+        "name": "water-veil"
+    },
+    {
+        "id": 41,
+        "name": "magnet-pull"
+    },
+    {
+        "id": 42,
+        "name": "soundproof"
+    },
+    {
+        "id": 43,
+        "name": "rain-dish"
+    },
+    {
+        "id": 44,
+        "name": "sand-stream"
+    },
+    {
+        "id": 45,
+        "name": "pressure"
+    },
+    {
+        "id": 46,
+        "name": "thick-fat"
+    },
+    {
+        "id": 47,
+        "name": "early-bird"
+    },
+    {
+        "id": 48,
+        "name": "flame-body"
+    },
+    {
+        "id": 49,
+        "name": "run-away"
+    },
+    {
+        "id": 50,
+        "name": "keen-eye"
+    },
+    {
+        "id": 51,
+        "name": "hyper-cutter"
+    },
+    {
+        "id": 52,
+        "name": "pickup"
+    },
+    {
+        "id": 53,
+        "name": "truant"
+    },
+    {
+        "id": 54,
+        "name": "hustle"
+    },
+    {
+        "id": 55,
+        "name": "cute-charm"
+    },
+    {
+        "id": 56,
+        "name": "plus"
+    },
+    {
+        "id": 57,
+        "name": "minus"
+    },
+    {
+        "id": 58,
+        "name": "forecast"
+    },
+    {
+        "id": 59,
+        "name": "sticky-hold"
+    },
+    {
+        "id": 60,
+        "name": "shed-skin"
+    },
+    {
+        "id": 61,
+        "name": "guts"
+    },
+    {
+        "id": 62,
+        "name": "marvel-scale"
+    },
+    {
+        "id": 63,
+        "name": "liquid-ooze"
+    },
+    {
+        "id": 64,
+        "name": "overgrow"
+    },
+    {
+        "id": 65,
+        "name": "blaze"
+    },
+    {
+        "id": 66,
+        "name": "torrent"
+    },
+    {
+        "id": 67,
+        "name": "swarm"
+    },
+    {
+        "id": 68,
+        "name": "rock-head"
+    },
+    {
+        "id": 69,
+        "name": "drought"
+    },
+    {
+        "id": 70,
+        "name": "arena-trap"
+    },
+    {
+        "id": 71,
+        "name": "vital-spirit"
+    },
+    {
+        "id": 72,
+        "name": "white-smoke"
+    },
+    {
+        "id": 73,
+        "name": "pure-power"
+    },
+    {
+        "id": 74,
+        "name": "shell-armor"
+    },
+    {
+        "id": 75,
+        "name": "air-lock"
+    },
+    {
+        "id": 76,
+        "name": "tangled-feet"
+    },
+    {
+        "id": 77,
+        "name": "motor-drive"
+    },
+    {
+        "id": 78,
+        "name": "rivalry"
+    },
+    {
+        "id": 79,
+        "name": "steadfast"
+    },
+    {
+        "id": 80,
+        "name": "snow-cloak"
+    },
+    {
+        "id": 81,
+        "name": "gluttony"
+    },
+    {
+        "id": 82,
+        "name": "anger-point"
+    },
+    {
+        "id": 83,
+        "name": "unburden"
+    },
+    {
+        "id": 84,
+        "name": "heatproof"
+    },
+    {
+        "id": 85,
+        "name": "simple"
+    },
+    {
+        "id": 86,
+        "name": "dry-skin"
+    },
+    {
+        "id": 87,
+        "name": "download"
+    },
+    {
+        "id": 88,
+        "name": "iron-fist"
+    },
+    {
+        "id": 89,
+        "name": "poison-heal"
+    },
+    {
+        "id": 90,
+        "name": "adaptability"
+    },
+    {
+        "id": 91,
+        "name": "skill-link"
+    },
+    {
+        "id": 92,
+        "name": "hydration"
+    },
+    {
+        "id": 93,
+        "name": "solar-power"
+    },
+    {
+        "id": 94,
+        "name": "quick-feet"
+    },
+    {
+        "id": 95,
+        "name": "normalize"
+    },
+    {
+        "id": 96,
+        "name": "sniper"
+    },
+    {
+        "id": 97,
+        "name": "magic-guard"
+    },
+    {
+        "id": 98,
+        "name": "no-guard"
+    },
+    {
+        "id": 99,
+        "name": "stall"
+    },
+    {
+        "id": 100,
+        "name": "technician"
+    },
+    {
+        "id": 101,
+        "name": "eaf-guard"
+    },
+    {
+        "id": 102,
+        "name": "klutz"
+    },
+    {
+        "id": 103,
+        "name": "mold-breaker"
+    },
+    {
+        "id": 104,
+        "name": "super-luck"
+    },
+    {
+        "id": 105,
+        "name": "aftermath"
+    },
+    {
+        "id": 106,
+        "name": "anticipation"
+    },
+    {
+        "id": 107,
+        "name": "forewarn"
+    },
+    {
+        "id": 108,
+        "name": "unaware"
+    },
+    {
+        "id": 109,
+        "name": "tinted-lens"
+    },
+    {
+        "id": 110,
+        "name": "filter"
+    },
+    {
+        "id": 111,
+        "name": "slow-start"
+    },
+    {
+        "id": 112,
+        "name": "scrappy"
+    },
+    {
+        "id": 113,
+        "name": "storm-drain"
+    },
+    {
+        "id": 114,
+        "name": "ice-body"
+    },
+    {
+        "id": 115,
+        "name": "solid-rock"
+    },
+    {
+        "id": 116,
+        "name": "snow-warning"
+    },
+    {
+        "id": 117,
+        "name": "honey-gather"
+    },
+    {
+        "id": 118,
+        "name": "frisk"
+    },
+    {
+        "id": 119,
+        "name": "reckless"
+    },
+    {
+        "id": 120,
+        "name": "multitype"
+    },
+    {
+        "id": 121,
+        "name": "flower-gift"
+    },
+    {
+        "id": 122,
+        "name": "bad-dreams"
+    },
+    {
+        "id": 123,
+        "name": "pickpocket"
+    },
+    {
+        "id": 124,
+        "name": "sheer-force"
+    },
+    {
+        "id": 125,
+        "name": "contrary"
+    },
+    {
+        "id": 126,
+        "name": "unnerve"
+    },
+    {
+        "id": 127,
+        "name": "defiant"
+    },
+    {
+        "id": 128,
+        "name": "defeatist"
+    },
+    {
+        "id": 129,
+        "name": "cursed-body"
+    },
+    {
+        "id": 130,
+        "name": "healer"
+    },
+    {
+        "id": 131,
+        "name": "friend-guard"
+    },
+    {
+        "id": 132,
+        "name": "weak-armor"
+    },
+    {
+        "id": 133,
+        "name": "heavy-metal"
+    },
+    {
+        "id": 134,
+        "name": "light-metal"
+    },
+    {
+        "id": 135,
+        "name": "multiscale"
+    },
+    {
+        "id": 136,
+        "name": "toxic-boost"
+    },
+    {
+        "id": 137,
+        "name": "flare-boost"
+    },
+    {
+        "id": 138,
+        "name": "harvest"
+    },
+    {
+        "id": 139,
+        "name": "telepathy"
+    },
+    {
+        "id": 140,
+        "name": "moody"
+    },
+    {
+        "id": 141,
+        "name": "overcoat"
+    },
+    {
+        "id": 142,
+        "name": "poison-touch"
+    },
+    {
+        "id": 143,
+        "name": "regenerator"
+    },
+    {
+        "id": 144,
+        "name": "big-pecks"
+    },
+    {
+        "id": 145,
+        "name": "sand-rush"
+    },
+    {
+        "id": 146,
+        "name": "wonder-skin"
+    },
+    {
+        "id": 147,
+        "name": "analytic"
+    },
+    {
+        "id": 148,
+        "name": "illusion"
+    },
+    {
+        "id": 149,
+        "name": "imposter"
+    },
+    {
+        "id": 150,
+        "name": "infiltrator"
+    },
+    {
+        "id": 151,
+        "name": "mummy"
+    },
+    {
+        "id": 152,
+        "name": "moxie"
+    },
+    {
+        "id": 153,
+        "name": "justified"
+    },
+    {
+        "id": 154,
+        "name": "rattled"
+    },
+    {
+        "id": 155,
+        "name": "magic-bounce"
+    },
+    {
+        "id": 156,
+        "name": "sap-sipper"
+    },
+    {
+        "id": 157,
+        "name": "prankster"
+    },
+    {
+        "id": 158,
+        "name": "sand-force"
+    },
+    {
+        "id": 159,
+        "name": "iron-barbs"
+    },
+    {
+        "id": 160,
+        "name": "zen-mode"
+    },
+    {
+        "id": 161,
+        "name": "victory-star"
+    },
+    {
+        "id": 162,
+        "name": "turboblaze"
+    },
+    {
+        "id": 163,
+        "name": "teravolt"
+    },
+    {
+        "id": 164,
+        "name": "aroma-veil"
+    },
+    {
+        "id": 165,
+        "name": "flower-veil"
+    },
+    {
+        "id": 166,
+        "name": "cheek-pouch"
+    },
+    {
+        "id": 167,
+        "name": "protean"
+    },
+    {
+        "id": 168,
+        "name": "fur-coat"
+    },
+    {
+        "id": 169,
+        "name": "magician"
+    },
+    {
+        "id": 170,
+        "name": "bulletproof"
+    },
+    {
+        "id": 171,
+        "name": "competitive"
+    },
+    {
+        "id": 172,
+        "name": "strong-jaw"
+    },
+    {
+        "id": 173,
+        "name": "refrigerate"
+    },
+    {
+        "id": 174,
+        "name": "sweet-veil"
+    },
+    {
+        "id": 175,
+        "name": "stance-change"
+    },
+    {
+        "id": 176,
+        "name": "gale-wings"
+    },
+    {
+        "id": 177,
+        "name": "mega-launcher"
+    },
+    {
+        "id": 178,
+        "name": "grass-pelt"
+    },
+    {
+        "id": 179,
+        "name": "symbiosis"
+    },
+    {
+        "id": 180,
+        "name": "tough-claws"
+    }
+]

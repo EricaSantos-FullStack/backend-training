@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "name": "Bulbasaur",
+        "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+        "category": "Seed",
+        "ability": "",
+        "type_id": 11,
+        "weakness": ""
+
+    },
+    {
+        "id": 1,
+        "name": "Ivysaur",
+        "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "category": "Seed",
+        "ability": "",
+        "type_id": 11,
+        "weakness": ""
+
+    },
+    {
+        "id": 2,
+        "name": "Venusaur",
+        "description": "Its plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+        "category": "Seed",
+        "ability": "",
+        "type_id": 11,
+        "weakness": ""
+
+    },
+    {
+        "id": 3,
+        "name": "charmander",
+        "description": "It has a preference for hot things. When it rains, steam is said to spout from the tip of its tail.",
+        "category": "",
+        "ability": "",
+        "type_id": 9,
+        "weakness": ""
+
+    },
+    {
+        "id": 4,
+        "name": "charmeleon",
+        "description": "It has a barbaric nature. In battle, it whips its fiery tail around and slashes away with sharp claws.",
+        "category": "Flame",
+        "ability": "",
+        "type_id": 9,
+        "weakness": ""
+
+    },
+    {
+        "id": 5,
+        "name": "charizard",
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "category": "Flame",
+        "ability": "",
+        "type_id": 9,
+        "weakness": ""
+
+    },
+    {
+        "id": 6,
+        "name": "squirtle",
+        "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+        "category": "Tiny Turtle",
+        "ability": "",
+        "type_id": 10,
+        "weakness": ""
+
+    },
+    {
+        "id": 7,
+        "name": "wartortle",
+        "description": "It is recognized as a symbol of longevity. If its shell has algae on it, that Wartortle is very old.",
+        "category": "Turtle",
+        "ability": "",
+        "type_id": 10,
+        "weakness": ""
+
+    },
+    {
+        "id": 8,
+        "name": "blastoise",
+        "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+        "category": "Shellfish",
+        "ability": "",
+        "type_id": 10,
+        "weakness": ""
+
+    },
+    {
+        "id": 9,
+        "name": "caterpie",
+        "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+        "category": "Worm",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 10,
+        "name": "metapod",
+        "description": "It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+        "category": "Cocoon",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 11,
+        "name": "butterfree",
+        "description": "In battle, it flaps its wings at great speed to release highly toxic dust into the air.",
+        "category": "Butterfly",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 12,
+        "name": "weedle",
+        "description": "Beware of the sharp stinger on its head. It hides in grass and bushes where it eats leaves.",
+        "category": "Hairy Bug",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 13,
+        "name": "kakuna",
+        "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+        "category": "Cocoon",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 14,
+        "name": "beedrill",
+        "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+        "category": "Poison Bee",
+        "ability": "",
+        "type_id": 6,
+        "weakness": ""
+
+    },
+    {
+        "id": 15,
+        "name": "pidgey",
+        "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+        "category": "Tiny Bird",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    },
+    {
+        "id": 16,
+        "name": "pidgeotto",
+        "description": "This Pokémon is full of vitality. It constantly flies around its large territory in search of prey.",
+        "category": "Bird",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    },
+    {
+        "id": 17,
+        "name": "pidgeot",
+        "description": "This Pokémon flies at Mach 2 speed, seeking prey. Its large talons are feared as wicked weapons.",
+        "category": "Bird",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    },
+    {
+        "id": 18,
+        "name": "rattata",
+        "description": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+        "category": "Mouse",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    },
+    {
+        "id": 19,
+        "name": "raticate",
+        "description": "Its hind feet are webbed. They act as flippers, so it can swim in rivers and hunt for prey.",
+        "category": "Mouse",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    },
+    {
+        "id": 20,
+        "name": "spearow",
+        "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+        "category": "Tiny Bird",
+        "ability": "",
+        "type_id": 0,
+        "weakness": ""
+
+    }
+]
