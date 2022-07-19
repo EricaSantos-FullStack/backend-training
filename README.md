@@ -16,7 +16,8 @@ Repositório feito para treinar os meus conhecimentos em Back-end
 - [x] TypeORM
 - [x] NodeJS
 - [x] Express
-- [x] 
+- [x] PostgreSQL
+
 
 
 Material para referencia: </br> 
