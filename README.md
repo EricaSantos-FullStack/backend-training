@@ -12,6 +12,12 @@ Repositório feito para treinar os meus conhecimentos em Back-end
 - [x] Incluir node modules
 - [x] Definição do tema: Pokemon
 
+### Tecnologias:
+- [x] TypeORM
+- [x] NodeJS
+- [x] Express
+- [x] 
+
 
 Material para referencia: </br> 
 https://api.pokemon.com/br/pokedex/
