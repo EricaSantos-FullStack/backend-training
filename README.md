@@ -9,8 +9,8 @@ Repositório feito para treinar os meus conhecimentos em Back-end
 - [x] Criar uma intancia de container de DB postgres
 - [x] Conectar o banco pelo dbeaver
 - [x] Copiar estrutura básica do projeto
-- [ ] Incluir node modules
-- [ ] Definição do tema: Pokemon
+- [x] Incluir node modules
+- [x] Definição do tema: Pokemon
 
 
 Material para referencia: </br> 
