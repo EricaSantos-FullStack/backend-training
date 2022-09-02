@@ -52,5 +52,3 @@ module.exports = new EntitySchema({
 
 // ver se troca o type para int -
 // Quero que mostre o tipo na tabela, não apenas o número. Assim permaneço com a string.
-
-

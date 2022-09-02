@@ -1,4 +1,5 @@
 import GraphQLDate from 'graphql-date';
+import pokemonResolvers from '../resolvers/pokemon-resolvers';
 
 /*
 aqui voce vai definir resolvers das queries
