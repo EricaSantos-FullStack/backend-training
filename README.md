@@ -6,11 +6,18 @@ Repositório feito para treinar os meus conhecimentos em Back-end
 - [x] Incluir um colaborador.
 - [x] Criar uma chave SSH.
 - [x] Clonar o repositório.
-- [x] Criar uma intancia de container de DB postgres
+- [x] Criar uma instancia de container de DB postgres
 - [x] Conectar o banco pelo dbeaver
 - [x] Copiar estrutura básica do projeto
-- [ ] Incluir node modules
-- [ ] Definição do tema: Pokemon
+- [x] Incluir node modules
+- [x] Definição do tema: Pokemon
+
+### Tecnologias:
+- [x] TypeORM
+- [x] NodeJS
+- [x] Express
+- [x] PostgreSQL
+
 
 
 Material para referencia: </br> 
